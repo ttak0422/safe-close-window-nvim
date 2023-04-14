@@ -1,0 +1,1 @@
+# safe-close-window-nvim
